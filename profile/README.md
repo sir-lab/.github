@@ -2,4 +2,4 @@
 
 We are the Systems Infrastructure Research (SIR) lab at Huawei's Edinburgh Research Center.
 
-![logo](profile/logo.png) 
+<img src='logo.png', alt='logo', width=300, height='auto'> 
